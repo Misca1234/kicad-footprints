@@ -1,6 +1,6 @@
-(module ESP32-WROOM-32U (layer F.Cu) (tedit 5B4646BB)
+(module ESP32-WROOM-32U (layer F.Cu) (tedit 5B530FE3)
   (descr "Single 2.4 GHz Wi-Fi and Bluetooth combo chip with U.FL connector, https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32d_esp32-wroom-32u_datasheet_en.pdf")
-  (tags "Single 2.4 GHz Wi-Fi and Bluetooth combo chip")
+  (tags "Single 2.4 GHz Wi-Fi and Bluetooth combo  chip")
   (attr smd)
   (fp_text reference REF** (at -7.58 -10.5 180) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
